@@ -3,3 +3,4 @@ template:
     - id: 1
     - name: check
     - dummy: dummy
+      - test: test
