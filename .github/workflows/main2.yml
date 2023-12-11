@@ -1,7 +1,0 @@
-            - name: YAML Lint
-  # You may pin to the exact commit or the version.
-  # uses: ibiqlik/action-yamllint@2576378a8e339169678f9939646ee3ee325e845c
-  uses: ibiqlik/action-yamllint@v3.1.1
-  with:
-    # File(s) or Directory, separate by space if multiple files or folder are specified
-    file_or_dir: .
