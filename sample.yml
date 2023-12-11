@@ -2,4 +2,4 @@ template:
   first:
     - id: 1
     - name: check
-     - dummy: dummy
+    - dummy: dummy
