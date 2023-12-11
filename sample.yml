@@ -1,4 +1,4 @@
 template:
   first: 
     - id: 1
-    - name: checker
+     - name: checker
