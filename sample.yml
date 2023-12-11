@@ -1,3 +1,4 @@
 template:
-  name: yml-test
-  id: 1
+  first: 
+    - id: 1
+    - name: checker
